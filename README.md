@@ -29,3 +29,8 @@ Este proyecto es una **prueba de un carrito de compras** implementado con PHP. E
 - **Modificar Cantidad**: Cambia la cantidad directamente en el carrito.
 - **Eliminar Producto**: Haz clic en el botón de eliminar para quitar el producto del carrito.
 - **Calcular Total**: El total del carrito se actualizará automáticamente con cada acción.
+
+
+  ## Autor
+Debora Alejandra Garcia Cruz
+- 
