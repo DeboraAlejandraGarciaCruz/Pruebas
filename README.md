@@ -16,3 +16,16 @@ Este proyecto es una **prueba de un carrito de compras** implementado con PHP. E
 3. Coloca el proyecto en la carpeta `htdocs` (o la equivalente) de tu servidor.
 4. Accede al proyecto desde tu navegador con la URL `http://localhost/nombre_del_proyecto`.
 5. Agrega productos al carrito, modifica sus cantidades y observa cómo se actualiza el total automáticamente.
+
+## Instalación
+
+1. **Clona el repositorio** en tu entorno local.
+2. Configura tu servidor web para apuntar a la carpeta del proyecto.
+3. Asegúrate de que tu entorno de PHP esté correctamente configurado.
+
+## Ejemplo de Uso
+
+- **Añadir Producto**: Selecciona el producto y haz clic en "Agregar al carrito".
+- **Modificar Cantidad**: Cambia la cantidad directamente en el carrito.
+- **Eliminar Producto**: Haz clic en el botón de eliminar para quitar el producto del carrito.
+- **Calcular Total**: El total del carrito se actualizará automáticamente con cada acción.
