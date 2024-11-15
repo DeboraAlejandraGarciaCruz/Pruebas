@@ -32,5 +32,4 @@ Este proyecto es una **prueba de un carrito de compras** implementado con PHP. E
 
 
   ## Autor
-Debora Alejandra Garcia Cruz. 
-
+Debora Alejandra Garcia Cruz.
