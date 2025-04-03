@@ -1,4 +1,4 @@
-109876543# Carrito de Compras en PHP
+10987654# Carrito de Compras en PHP
 
 Este proyecto es una **prueba de un carrito de compras** implementado con PHP. Está diseñado para ayudar a entender cómo se puede gestionar un carrito de compras en una página web, permitiendo a los usuarios agregar, eliminar y actualizar productos en el carrito.
 
